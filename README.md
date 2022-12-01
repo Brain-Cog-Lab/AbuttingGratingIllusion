@@ -9,6 +9,11 @@ The following files generate samples of AG distortion
 AG-MNIST : 1_visualize_mnist28.py
 high-resolution AG-MNIST : 2_visualize_mnist224.py
 AG-silhouette ：3_visualize_sil.py
+![image](https://user-images.githubusercontent.com/48897111/205000986-b5b2f85c-8720-4731-b637-f427faaebe9b.png)
+![image](https://user-images.githubusercontent.com/48897111/205001093-6151814b-d4b1-4eec-9dc7-b989340ad076.png)
+![image](https://user-images.githubusercontent.com/48897111/205001212-892814cd-a668-4bc0-b9ec-982f022e8d6f.png)
+
+
 
 ## Train and test model from scratch
 "1_test_mnist28.py" trains models with original MNIST and test them on AG-MNIST.
