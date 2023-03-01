@@ -1,3 +1,8 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+This repository has been moved to the following link as part of the Brain-Cog-Lab:
+https://github.com/Brain-Cog-Lab/AbuttingGratingDistortion
+
+
 # AbuttingGratingDistortion
 The code for "Challenging Deep Learning Models with Image Distortion based on the Abutting Grating Illusion"
 
