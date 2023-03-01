@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 # Challenging Deep Learning Models with Image Distortion based on the Abutting Grating Illusion
 This repository contains code from our paper [Challenging Deep Learning Models with Image Distortion based on the Abutting Grating Illusion] published in Cell Patterns. https://www.cell.com/patterns/fulltext/S2666-3899(23)00026-0
+=======
+
+# This repository has been moved to the following link as part of the Brain-Cog-Lab:
+https://github.com/Brain-Cog-Lab/AbuttingGratingDistortion
+>>>>>>> 3fc53a687f97ee5c17082f217e3c9f302c2a92dc
 
 If you use our code or refer to this project, please cite this paper: Jinyu Fan, and Yi Zeng. Challenging Deep Learning Models with Image Distortion based on the Abutting Grating Illusion. Patterns, DOI：https://doi.org/10.1016/j.patter.2023.100695
 
