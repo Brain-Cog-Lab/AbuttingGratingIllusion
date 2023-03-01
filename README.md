@@ -1,5 +1,5 @@
-# AbuttingGratingIllusion
-The code for "Abutting Grating Illusion: Cognitive Challenge to Deep Learning Models"
+# AbuttingGratingDistortion
+The code for "Challenging Deep Learning Models with Image Distortion based on the Abutting Grating Illusion"
 
 ## Code of Abutting Grating Distortion
 The code to generate Abutting Grating Distortion can be found in "utils/abutting_grating_illusions.py"
