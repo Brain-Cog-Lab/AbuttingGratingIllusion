@@ -1,5 +1,5 @@
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-This repository has been moved to the following link as part of the Brain-Cog-Lab:
+
+# This repository has been moved to the following link as part of the Brain-Cog-Lab:
 https://github.com/Brain-Cog-Lab/AbuttingGratingDistortion
 
 
